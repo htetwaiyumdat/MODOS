@@ -1,6 +1,7 @@
-[Source deploy steps]
+Source deploy steps
 
 (Prerequisite)
+
 -Zabbix6.x.x/JAZ6.x.x database(Mysql)
 -Zabbix6.x.x/JAZ6.x.x server/agent
 
