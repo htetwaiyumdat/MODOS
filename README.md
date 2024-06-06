@@ -4,6 +4,9 @@ Source deploy steps
 
 -Zabbix6.x.x/JAZ6.x.x database(Mysql)
 -Zabbix6.x.x/JAZ6.x.x server/agent
+-create hostgroup related with login user(zabbix)
+-create host related with hostgroup(zabbix)
+-create JOBNET related with host (JAZ)
 
 
 1) Place the "bssapp" folder to /var/www/html/ of application server.
